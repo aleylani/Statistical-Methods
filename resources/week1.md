@@ -29,8 +29,11 @@ Mängder
 ## Theory :book:
 
 Grundläggande statistisk analys: Introduktion till statistisk analys 1.1-1.5, 1.8
+
 Övningar i Grundläggande statistisk analys: 1.1-1.5
 
+
 Grundläggande statistisk analys: Sannolikhetslära, 2.1-2.6
+
 Övningar i Grundläggande statistisk analys: 2.1-2.3, 2.8, 2.10-2.11, 2.13-2.17, 2.25-2.32
 
