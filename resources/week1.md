@@ -2,28 +2,18 @@
 
 [Back to main page :house:](https://github.com/aleylani/statistical-methods)
 
-## Video lectures :video_camera:
-
-
-Bråktal
+## Introduktion till statistisk analys
 
 - [Elementära operationer](https://www.youtube.com/watch?v=e30CHWA1m7A)
-
-
-Datatyper
-
 - [Nominal-, ordinal-, intervall- och kvotdata](https://www.youtube.com/watch?v=5Yh-9xdJzAs&t)
-
-Lägesmått
-
 - [Medelvärde & typvärde](https://www.youtube.com/watch?v=QDbnHwm7OHQ)
 - [Median](https://www.youtube.com/watch?v=VHXB9KpjOc8)
+- [Population vs stickprov](https://www.youtube.com/watch?v=eIZD1BFfw8E)
+- [Population vs stickprov - notation](https://www.youtube.com/watch?v=Mb9BuEkbaHQ)
 
-Mängder
+# Sannolikhetslära
 
-- [Population vs Sample (stickprov)](https://www.youtube.com/watch?v=eIZD1BFfw8E)
-- [Population vs Sample (stickprov) - notation](https://www.youtube.com/watch?v=Mb9BuEkbaHQ)
-
+- [Sannolikhet och komplement](https://www.youtube.com/watch?v=0T-CaQCiSf4)
 
 
 ## Theory :book:
