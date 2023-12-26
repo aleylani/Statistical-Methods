@@ -14,6 +14,8 @@
 # Sannolikhetslära
 
 - [Sannolikhet och komplement](https://www.youtube.com/watch?v=0T-CaQCiSf4)
+- [Bayes sats](https://www.youtube.com/watch?v=cqTwHnNbc8g)
+- [Kombinatorik](https://www.youtube.com/watch?v=XJnIdRXUi7A)
 
 
 ## Theory :book:
