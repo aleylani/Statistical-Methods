@@ -1,4 +1,4 @@
-# Week 1 - Resources
+# Week 1 - Resurser
 
 [Back to main page :house:](https://github.com/aleylani/statistical-methods)
 
