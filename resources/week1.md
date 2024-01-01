@@ -18,12 +18,13 @@
 - [Kombinatorik](https://www.youtube.com/watch?v=XJnIdRXUi7A)
 
 
-## Theory :book:
+## Teori :book:
 
 Grundläggande statistisk analys: Introduktion till statistisk analys 1.1-1.5, 1.8
 
 Grundläggande statistisk analys: Sannolikhetslära, 2.1-2.6
 
+# Övningar
 
 Övningar i Grundläggande statistisk analys: 1.1-1.5
 
