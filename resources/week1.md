@@ -2,7 +2,7 @@
 
 [Back to main page :house:](https://github.com/aleylani/statistical-methods)
 
-## Introduktion till statistisk analys
+# Introduktion till statistisk analys
 
 - [Elementära operationer](https://www.youtube.com/watch?v=e30CHWA1m7A)
 - [Nominal-, ordinal-, intervall- och kvotdata](https://www.youtube.com/watch?v=5Yh-9xdJzAs&t)
@@ -18,7 +18,7 @@
 - [Kombinatorik](https://www.youtube.com/watch?v=XJnIdRXUi7A)
 
 
-## Teori :book:
+# Teori :book:
 
 Grundläggande statistisk analys: Introduktion till statistisk analys 1.1-1.5, 1.8
 
