@@ -13,7 +13,9 @@
 
 # Sannolikhetslära
 
+- [Mängder](https://www.youtube.com/watch?v=xZELQc11ACY)
 - [Sannolikhet och komplement](https://www.youtube.com/watch?v=0T-CaQCiSf4)
+- [Betingad sannoliket](https://www.youtube.com/watch?v=sqDVrXq_eh0)
 - [Bayes sats](https://www.youtube.com/watch?v=cqTwHnNbc8g)
 - [Kombinatorik](https://www.youtube.com/watch?v=XJnIdRXUi7A)
 
