@@ -4,7 +4,7 @@
 
 # Video
 
-- [Random variabler](https://www.youtube.com/watch?v=3v9w79NhsfI&t)
+- [Random variables](https://www.youtube.com/watch?v=3v9w79NhsfI&t)
 - [Förväntansvärden](https://www.youtube.com/watch?v=5Yh-9xdJzAs&t)
 - [Binomialfördelning](https://www.youtube.com/watch?v=qIzC1-9PwQo&t)
 - [Poissionfördelning](https://www.youtube.com/watch?v=jmqZG6roVqU)
