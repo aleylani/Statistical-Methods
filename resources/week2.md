@@ -17,4 +17,4 @@ Grundläggande statistisk analys: Diskreta fördelningar 3.1-3.5, 3.7, 3.9
 
 # Övningar
 
-Övningar i Grundläggande statistisk analys: 3.1-3.9, 3.11-3.15, 3.20-3.28
+Övningar i Grundläggande statistisk analys: 3.1-3.4, 3.11-3.15, 3.22, 3.25-3.26
