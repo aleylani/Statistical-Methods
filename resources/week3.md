@@ -13,6 +13,7 @@
 # Teori :book:
 
 - [Z-table tabellsannolikheter](https://byjus.com/maths/z-score-table/)
+
 Grundläggande statistisk analys: Diskreta fördelningar 4.1-4.4, 4.6
 
 # Övningar
