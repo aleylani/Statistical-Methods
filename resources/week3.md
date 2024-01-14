@@ -5,7 +5,8 @@
 # Video
 
 - [Exponentialfördelning](https://www.youtube.com/watch?v=IT-0oCOQrBY)
-- [Normaldistribution, exempel](https://www.youtube.com/watch?v=xI9ZHGOSaCg)
+- [Normalfördelning, exempel 1](https://www.youtube.com/watch?v=xI9ZHGOSaCg)
+- [Normalfördelning, exempel 2](https://www.youtube.com/watch?v=vrS1EpH3Yoo)
 - [Standardnormalfördelning, Z-värden, tabellsannolikheter](https://www.youtube.com/watch?v=CjF_yQ2N638)
 
 
