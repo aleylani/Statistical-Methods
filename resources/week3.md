@@ -8,8 +8,6 @@
 - [Normalfördelning, exempel 2](https://www.youtube.com/watch?v=vrS1EpH3Yoo)
 - [Standardnormalfördelning, Z-värden, tabellsannolikheter](https://www.youtube.com/watch?v=CjF_yQ2N638)
 
-
-
 # Teori :book:
 
 - [Z-table tabellsannolikheter](https://byjus.com/maths/z-score-table/)
