@@ -16,3 +16,7 @@
 Grundläggande statistisk analys: Stickprovsfördelningar 5.1-5.3, 5.5
 
 # Övningar
+
+Övningar i Grundläggande statistisk analys: 5.1-5.11
+
+Lös även övningar i den länkade hämsidan för stickprovsfördelning av medelvärdet
