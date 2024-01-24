@@ -17,6 +17,7 @@
  - [Konfidensintervall](https://www.scribbr.com/statistics/confidence-interval/)
  
 Grundläggande statistisk analys: Stickprovsfördelningar 5.1-5.3, 5.5
+
 Grundläggande statistisk analys: Konfidensintervall 6.1-6.3, 6.6-6.7
 
 # Övningar
