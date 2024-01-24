@@ -6,7 +6,7 @@
 
 - [Stickprovsfördelning av medelvärdet](https://www.youtube.com/watch?v=q50GpTdFYyI)
 - [Centrala gränsvärdessatsen](https://www.youtube.com/watch?v=YAlJCEDH2uY)
-- [Konfidensintervall](https://www.youtube.com/watch?v=ENnlSlvQHO0)
+- [Konfidensintervall](https://www.youtube.com/watch?v=if15waNsMcI)
 
 # Teori :book:
 
