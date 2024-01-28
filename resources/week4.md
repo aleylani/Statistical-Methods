@@ -24,4 +24,6 @@ Grundläggande statistisk analys: Konfidensintervall 6.1-6.3, 6.6-6.7
 
 Övningar i Grundläggande statistisk analys: 5.1-5.11
 
+Övningar i Grundläggande statistisk analys: 6.1-6.9, 6.28-6.29
+
 Lös även övningar i den länkade hämsidan för stickprovsfördelning av medelvärdet
