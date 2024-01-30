@@ -4,6 +4,8 @@
 
 # Video
 
+- [Hypotestest - metoden med kritiska värden](https://www.youtube.com/watch?v=zJ8e_wAWUzE)
+- [Hypotestest - p-värdesmetoden](https://www.youtube.com/watch?v=8Aw45HN5lnA)
 
 # Teori :book:
 
