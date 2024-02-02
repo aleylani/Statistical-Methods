@@ -13,3 +13,5 @@
 Grundläggande statistisk analys: Hypotestester 7.1-7.3
 
 # Övningar
+
+Övningar i Grundläggande statistisk analys: 7.1. 7.6-7.11
